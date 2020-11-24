@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG03597
   title: ཀན་ལྷོའི་ལོ་རྒྱུས་དཔྱད་གཞིའི་ཡིག་རིགས།༡༣
-  volume: ''
+  volume:
+    1908e564ccbe4df3b075715d29dbde43:
+      image_group_id: I00KG03614
+      title: 'Volume 1 of 1949-1999 kan lho''i lo rgyus dpyad gzhi''i yig rigs : 13'
+      volume_number: 1
+      total_pages: 135
   author: ''
+ebook_metadata:
+  title: ཀན་ལྷོའི་ལོ་རྒྱུས་དཔྱད་གཞིའི་ཡིག་རིགས།༡༣
+  author: ''
+  sku: P007030
+  cover: cover.jpg
+  layers:
+  - pagination
